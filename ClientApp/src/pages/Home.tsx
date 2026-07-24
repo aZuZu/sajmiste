@@ -1,0 +1,36 @@
+import React from 'react'
+import Navbar from '../ui/Navbar'
+import Hero from '../ui/Hero'
+import FeaturedListings from '../ui/FeaturedListings'
+import Categories from '../ui/Categories'
+import Why from '../ui/Why'
+import Stats from '../ui/Stats'
+import Download from '../ui/Download'
+import Footer from '../ui/Footer'
+
+export default function Home(){
+  return (
+    <div className="container mx-auto px-4 max-w-7xl">
+      <Navbar />
+      <main className="mt-14">
+        <Hero />
+        <section className="mt-24">
+          <FeaturedListings />
+        </section>
+        <section className="mt-24">
+          <Categories />
+        </section>
+        <section className="mt-24">
+          <Why />
+        </section>
+        <section className="mt-24">
+          <Stats />
+        </section>
+        <section className="mt-24">
+          <Download />
+        </section>
+      </main>
+      <Footer />
+    </div>
+  )
+}

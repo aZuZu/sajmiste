@@ -1,0 +1,6 @@
+@sajmiste_HostAddress = http://localhost:5028
+
+GET {{sajmiste_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

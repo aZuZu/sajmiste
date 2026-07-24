@@ -1,0 +1,45 @@
+import React from 'react'
+
+const sample = new Array(6).fill(0).map((_,i)=>({
+  id:i,
+  title:`Prodajem automobil ${i+1}`,
+  price:`${(i+1)*1500} €`,
+  location:`Zagreb`,
+  time:`${i+1}h`,
+  img:'/assets/listing-sample.jpg'
+}))
+
+function ListingCard({item}:{item:any}){
+  return (
+    <article className="bg-white rounded-[20px] border border-gray-100 shadow-md overflow-hidden transition-smooth hover:shadow-xl hover:-translate-y-1">
+      <div className="relative h-44 bg-gray-50">
+        <img src={item.img} alt="" className="w-full h-full object-cover" loading="lazy" />
+        <button aria-label="favorite" className="absolute top-3 right-3 bg-white p-2 rounded-full shadow">❤️</button>
+        <div className="absolute left-3 top-3 bg-white/90 px-3 py-1 rounded-full text-sm">{item.price}</div>
+      </div>
+      <div className="p-4">
+        <h3 className="font-semibold text-lg">{item.title}</h3>
+        <p className="text-sm text-gray-600 mt-2">Dobra prilika, redovito održavan. Više detalja u opisu.</p>
+        <div className="mt-3 flex items-center justify-between text-sm text-gray-500">
+          <span>{item.location}</span>
+          <span>{item.time} ago</span>
+        </div>
+      </div>
+    </article>
+  )
+}
+
+export default function FeaturedListings(){
+  return (
+    <section>
+      <div className="flex items-center justify-between">
+        <h2 className="text-3xl font-semibold">Izdvojeni oglasi</h2>
+        <a href="#" className="text-primary">Prikaži sve</a>
+      </div>
+
+      <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {sample.map(s=> <ListingCard key={s.id} item={s} />)}
+      </div>
+    </section>
+  )
+}

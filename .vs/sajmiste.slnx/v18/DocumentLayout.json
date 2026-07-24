@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\0azuz\\.copilot\\plans\\plan-redesign-homepage-into-production-quality-marketplace.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}|MarkdownSecurePreview"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\assets\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\assets\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\primitives\\input.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\primitives\\input.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\footer.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\primitives\\button.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\primitives\\button.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\download.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\download.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\stats.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\stats.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\categories.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\categories.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\why.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\why.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\featuredlistings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\featuredlistings.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\searchbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\searchbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\hero.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\hero.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\ui\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\ui\\navbar.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\pages\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\styles\\globals.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\tailwind.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\tailwind.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\postcss.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\postcss.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|c:\\users\\0azuz\\documents\\projects\\sajmiste\\clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{EBB02A00-2283-4FB3-A9A4-52C28BC9F8F4}|sajmiste.csproj|solutionrelative:clientapp\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plan-redesign-homepage-into-production-quality-marketplace.md [Preview]",
+              "DocumentMoniker": "C:\\Users\\0azuz\\.copilot\\plans\\plan-redesign-homepage-into-production-quality-marketplace.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\.copilot\\plans\\plan-redesign-homepage-into-production-quality-marketplace.md",
+              "ToolTip": "C:\\Users\\0azuz\\.copilot\\plans\\plan-redesign-homepage-into-production-quality-marketplace.md [Preview]",
+              "RelativeToolTip": "..\\..\\..\\.copilot\\plans\\plan-redesign-homepage-into-production-quality-marketplace.md [Preview]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-24T12:01:36.591Z",
+              "EditorCaption": " [Preview]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\README.md",
+              "RelativeDocumentMoniker": "ClientApp\\README.md",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\README.md",
+              "RelativeToolTip": "ClientApp\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-24T12:00:31.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Input.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\primitives\\Input.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\primitives\\Input.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\primitives\\Input.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\primitives\\Input.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T12:00:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\assets\\.gitkeep",
+              "RelativeDocumentMoniker": "ClientApp\\src\\assets\\.gitkeep",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\assets\\.gitkeep",
+              "RelativeToolTip": "ClientApp\\src\\assets\\.gitkeep",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-24T12:00:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Footer.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Footer.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Footer.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Footer.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T12:00:01.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\package.json",
+              "RelativeDocumentMoniker": "ClientApp\\package.json",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\package.json",
+              "RelativeToolTip": "ClientApp\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-24T11:57:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Button.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\primitives\\Button.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\primitives\\Button.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\primitives\\Button.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\primitives\\Button.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T12:00:18.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Download.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Download.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Download.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Download.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Download.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:54.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stats.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Stats.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Stats.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Stats.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Stats.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:46.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Why.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Why.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Why.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Why.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Why.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categories.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Categories.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Categories.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Categories.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Categories.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:32.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FeaturedListings.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\FeaturedListings.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\FeaturedListings.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\FeaturedListings.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\FeaturedListings.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:24.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchBar.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\SearchBar.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\SearchBar.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\SearchBar.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\SearchBar.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:10.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Hero.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Hero.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Hero.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Hero.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Hero.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:59:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Navbar.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Navbar.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\ui\\Navbar.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\ui\\Navbar.tsx",
+              "RelativeToolTip": "ClientApp\\src\\ui\\Navbar.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:58:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\pages\\Home.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\pages\\Home.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\pages\\Home.tsx",
+              "RelativeToolTip": "ClientApp\\src\\pages\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:58:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\App.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\App.tsx",
+              "RelativeToolTip": "ClientApp\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:58:33.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "globals.css",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\styles\\globals.css",
+              "RelativeDocumentMoniker": "ClientApp\\src\\styles\\globals.css",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\styles\\globals.css",
+              "RelativeToolTip": "ClientApp\\src\\styles\\globals.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-24T11:58:28.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\main.tsx",
+              "RelativeDocumentMoniker": "ClientApp\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\src\\main.tsx",
+              "RelativeToolTip": "ClientApp\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:58:13.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\index.html",
+              "RelativeDocumentMoniker": "ClientApp\\index.html",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\index.html",
+              "RelativeToolTip": "ClientApp\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-07-24T11:58:06.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "tailwind.config.cjs",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\tailwind.config.cjs",
+              "RelativeDocumentMoniker": "ClientApp\\tailwind.config.cjs",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\tailwind.config.cjs",
+              "RelativeToolTip": "ClientApp\\tailwind.config.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-24T11:58:01.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "postcss.config.cjs",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\postcss.config.cjs",
+              "RelativeDocumentMoniker": "ClientApp\\postcss.config.cjs",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\postcss.config.cjs",
+              "RelativeToolTip": "ClientApp\\postcss.config.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-07-24T11:57:51.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\tsconfig.json",
+              "RelativeDocumentMoniker": "ClientApp\\tsconfig.json",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\tsconfig.json",
+              "RelativeToolTip": "ClientApp\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-24T11:57:46.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\vite.config.ts",
+              "RelativeDocumentMoniker": "ClientApp\\vite.config.ts",
+              "ToolTip": "C:\\Users\\0azuz\\Documents\\Projects\\sajmiste\\ClientApp\\vite.config.ts",
+              "RelativeToolTip": "ClientApp\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-07-24T11:57:37.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
