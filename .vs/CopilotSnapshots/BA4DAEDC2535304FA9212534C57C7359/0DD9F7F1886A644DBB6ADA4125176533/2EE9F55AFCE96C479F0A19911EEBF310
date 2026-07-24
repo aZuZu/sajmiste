@@ -1,0 +1,8 @@
+﻿module.exports = {
+  plugins: {
+    // Tailwind v4 PostCSS plugin moved to a separate package
+    // Use the new package name so PostCSS loads the correct plugin
+    '@tailwindcss/postcss': {},
+    autoprefixer: {}
+  }
+}

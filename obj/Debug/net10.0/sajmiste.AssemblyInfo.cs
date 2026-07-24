@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sajmiste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db5046661a52a57c0b584846f9a1b43c4a9fd065")]
 [assembly: System.Reflection.AssemblyProductAttribute("sajmiste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sajmiste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

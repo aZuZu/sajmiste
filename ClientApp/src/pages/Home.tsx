@@ -1,4 +1,5 @@
 import React from 'react'
+import { motion } from 'framer-motion'
 import Navbar from '../ui/Navbar'
 import Hero from '../ui/Hero'
 import FeaturedListings from '../ui/FeaturedListings'
@@ -8,27 +9,62 @@ import Stats from '../ui/Stats'
 import Download from '../ui/Download'
 import Footer from '../ui/Footer'
 
-export default function Home(){
+const sectionVariants = {
+  hidden: { opacity: 0, y: 20 },
+  show: { opacity: 1, y: 0, transition: { duration: 0.5, ease: 'easeOut' } }
+}
+
+export default function Home() {
   return (
-    <div className="container mx-auto px-4 max-w-7xl">
+    <div className="mx-auto px-6 max-w-[1280px]">
       <Navbar />
-      <main className="mt-14">
+      <main className="mt-20">
         <Hero />
-        <section className="mt-24">
+        <motion.section
+          initial="hidden"
+          whileInView="show"
+          variants={sectionVariants}
+          viewport={{ once: true, margin: '-100px' }}
+          className="mt-20"
+        >
           <FeaturedListings />
-        </section>
-        <section className="mt-24">
+        </motion.section>
+        <motion.section
+          initial="hidden"
+          whileInView="show"
+          variants={sectionVariants}
+          viewport={{ once: true, margin: '-100px' }}
+          className="mt-20"
+        >
           <Categories />
-        </section>
-        <section className="mt-24">
+        </motion.section>
+        <motion.section
+          initial="hidden"
+          whileInView="show"
+          variants={sectionVariants}
+          viewport={{ once: true, margin: '-100px' }}
+          className="mt-20"
+        >
           <Why />
-        </section>
-        <section className="mt-24">
+        </motion.section>
+        <motion.section
+          initial="hidden"
+          whileInView="show"
+          variants={sectionVariants}
+          viewport={{ once: true, margin: '-100px' }}
+          className="mt-20"
+        >
           <Stats />
-        </section>
-        <section className="mt-24">
+        </motion.section>
+        <motion.section
+          initial="hidden"
+          whileInView="show"
+          variants={sectionVariants}
+          viewport={{ once: true, margin: '-100px' }}
+          className="mt-20"
+        >
           <Download />
-        </section>
+        </motion.section>
       </main>
       <Footer />
     </div>

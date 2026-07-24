@@ -1,45 +1,90 @@
 import React from 'react'
+import { motion } from 'framer-motion'
+import { useListings } from '../hooks/useListings'
+import SkeletonCard from './SkeletonCard'
 
-const sample = new Array(6).fill(0).map((_,i)=>({
-  id:i,
-  title:`Prodajem automobil ${i+1}`,
-  price:`${(i+1)*1500} €`,
-  location:`Zagreb`,
-  time:`${i+1}h`,
-  img:'/assets/listing-sample.jpg'
-}))
-
-function ListingCard({item}:{item:any}){
+function ListingCard({ item }: { item: any }) {
   return (
-    <article className="bg-white rounded-[20px] border border-gray-100 shadow-md overflow-hidden transition-smooth hover:shadow-xl hover:-translate-y-1">
-      <div className="relative h-44 bg-gray-50">
-        <img src={item.img} alt="" className="w-full h-full object-cover" loading="lazy" />
-        <button aria-label="favorite" className="absolute top-3 right-3 bg-white p-2 rounded-full shadow">❤️</button>
-        <div className="absolute left-3 top-3 bg-white/90 px-3 py-1 rounded-full text-sm">{item.price}</div>
+    <motion.article
+      whileHover={{ y: -6 }}
+      className="bg-white rounded-[20px] border border-gray-100 shadow-md overflow-hidden transition-smooth"
+    >
+      <div className="relative h-48 bg-gray-50 overflow-hidden">
+        <motion.img
+          src={item.img}
+          alt=""
+          className="w-full h-full object-cover img-zoom-hover"
+          loading="lazy"
+          whileHover={{ scale: 1.04 }}
+        />
+        <motion.button
+          aria-label="favorite"
+          whileTap={{ scale: 0.9 }}
+          className="absolute top-3 right-3 bg-white p-2 rounded-full shadow focus-ring"
+        >
+          ❤️
+        </motion.button>
+        <div className="absolute left-3 top-3 bg-gradient-to-r from-primary to-secondary text-white px-3 py-1 rounded-full text-sm font-medium shadow">
+          {item.price}
+        </div>
+        <div className="absolute right-3 bottom-3 bg-white/90 px-2 py-1 rounded text-xs text-gray-700">
+          ✔️ Verified
+        </div>
       </div>
       <div className="p-4">
         <h3 className="font-semibold text-lg">{item.title}</h3>
-        <p className="text-sm text-gray-600 mt-2">Dobra prilika, redovito održavan. Više detalja u opisu.</p>
+        <p className="text-sm text-gray-600 mt-2">
+          Dobra prilika, redovito održavan. Više detalja u opisu.
+        </p>
         <div className="mt-3 flex items-center justify-between text-sm text-gray-500">
           <span>{item.location}</span>
           <span>{item.time} ago</span>
         </div>
       </div>
-    </article>
+    </motion.article>
   )
 }
 
-export default function FeaturedListings(){
+export default function FeaturedListings() {
+  const { data: listings = [], isLoading } = useListings()
+
+  const visibleListings = listings.slice(0, 6)
+
   return (
     <section>
       <div className="flex items-center justify-between">
         <h2 className="text-3xl font-semibold">Izdvojeni oglasi</h2>
-        <a href="#" className="text-primary">Prikaži sve</a>
+        <a href="#" className="text-primary hover:text-secondary transition-smooth">
+          Prikaži sve
+        </a>
       </div>
 
-      <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {sample.map(s=> <ListingCard key={s.id} item={s} />)}
-      </div>
+      {isLoading ? (
+        <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {Array.from({ length: 6 }).map((_, i) => (
+            <SkeletonCard key={i} />
+          ))}
+        </div>
+      ) : (
+        <motion.div
+          initial="hidden"
+          animate="show"
+          variants={{
+            hidden: {},
+            show: { transition: { staggerChildren: 0.08 } }
+          }}
+          className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5"
+        >
+          {visibleListings.map(item => (
+            <motion.div
+              key={item.id}
+              variants={{ hidden: { opacity: 0, y: 8 }, show: { opacity: 1, y: 0 } }}
+            >
+              <ListingCard item={item} />
+            </motion.div>
+          ))}
+        </motion.div>
+      )}
     </section>
   )
 }

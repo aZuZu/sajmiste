@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Counter({value,title}:{value:string,title:string}){
+function Counter({ value, title }: { value: string; title: string }) {
   return (
     <div className="text-center">
       <div className="text-3xl font-extrabold text-primary">{value}</div>
@@ -9,7 +9,7 @@ function Counter({value,title}:{value:string,title:string}){
   )
 }
 
-export default function Stats(){
+export default function Stats() {
   return (
     <section className="bg-white rounded-xl border border-gray-100 p-8">
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">

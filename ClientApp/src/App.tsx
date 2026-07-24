@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home'
 
-export default function App(){
+export default function App() {
   return (
     <div className="min-h-screen relative overflow-x-hidden">
       <div className="bg-blobs" aria-hidden>
@@ -10,7 +10,7 @@ export default function App(){
         <div className="blob blob--blue" />
       </div>
       <Routes>
-        <Route path="/" element={<Home/>} />
+        <Route path="/" element={<Home />} />
       </Routes>
     </div>
   )
